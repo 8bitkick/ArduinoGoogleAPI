@@ -26,7 +26,7 @@ You could also show on LCD display, etc.
 ![alt text](https://raw.githubusercontent.com/8bitkick/ArduinoGoogleAPI/master/allow.png)
 
 
-### 3) Arduino can now call Google APIs
+### Arduino can now call Google APIs
 Default is allowing access to user files on Google Drive - but only files the app creates
 
 https://developers.google.com/drive/v2/reference/#Files
