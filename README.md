@@ -38,6 +38,6 @@ You could also show on LCD display, etc.
 
 
 ### Arduino can now call Google APIs
-Default is allowing access to user files on Google Drive - but only files the app creates
+Default scope is allowing access to user files on Google Drive - but only files the app creates
 
 https://developers.google.com/drive/v2/reference/#Files
